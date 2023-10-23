@@ -1,0 +1,6 @@
+{"levels" : [
+	{"id":1,"name":"Augmented Two-Room Environment","author":"Orr","ascii":"_______________\n_wB12wW16www.w_\n_wwwwwwwwwF16w_\n_......w......_\n_..b...w......_\n_......w......_\n_............._\n_..3...w......_\n_.f....w......_\n_......w......_\n_______________","solution":""},
+	{"id":2,"name":"Scaled-Down Augmented Two-Room Environment","author":"Orr","ascii":"_____________\n_B12wW16www._\n_wwwwwwwwF16_\n_.....w....._\n_.b...w....._\n_..3........_\n_.....w....._\n_f....w....._\n_____________","solution":""},
+	{"id":3,"name":"","author":"Orr","ascii":"_____\n_B12_\n_F.3_\n_b1f_\n_..._\n_____","solution":""},
+	{"id":4,"name":"","author":"Orr","ascii":"_____\n_B12_\n_..._\n_F.3_\n_b1f_\n_..._\n_____","solution":""}
+]} 
